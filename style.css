@@ -1,0 +1,23 @@
+.desktop {background-color: #f8f7f3;display: flex;flex-direction: row;justify-content: center;width: 100%;}
+.div {background-color: #f8f7f3;height: 3072px;overflow: hidden;position: relative;width: 1440px;}
+.overlap-group {height: 1099px;left: -148px;position: absolute;top: 949px;width: 1588px;}
+.box-about {background-color: #020202;border-radius: 50px;height: 1024px;left: 148px;position: absolute;top: 75px;width: 1440px;}
+.rectangle-2 {background-color: #f8f7f3;border-radius: 50px;height: 251px;left: 0;position: absolute;top: 0;width: 468px;}
+.text-about {color: #f8f7f3;font-family: "Roboto Mono-Regular", Helvetica;font-size: 30px;font-weight: 400;height: 240px;left: 868px;letter-spacing: 0;line-height: normal;position: absolute;top: 486px;width: 634px;}
+.header-about {color: #020202;font-family: "Roboto-Black", Helvetica;font-size: 80px;font-weight: 900;height: 90px;left: 195px;letter-spacing: -1.8px;line-height: 89.9px;position: absolute;top: 147px;white-space: nowrap;width: 256px;}
+.rectangle-3 {background-color: #f8f7f3;border-radius: 50px;height: 528px;left: 234px;position: absolute;top: 343px;width: 553px;}
+.welcome {color: #020202;font-family: "Roboto Mono-Bold", Helvetica;font-size: 48px;font-weight: 700;left: 26px;letter-spacing: 0;line-height: normal;position:absolute;top: 18px;width: 236px;}
+.overlap {height: 271px;left: 113px;position: absolute;top: 339px;width: 583px;}
+.fname {color: #020202;font-family: "Roboto Mono-Bold", Helvetica;font-size: 145px;font-weight: 700;height: 151px;left: 90px;letter-spacing: -13.05px;line-height:normal;position: absolute;top: 7px;white-space: nowrap;width: 493px;}
+.text-home {color: #020202;font-family: "Roboto Mono-Regular", Helvetica;font-size: 28px;font-weight: 400;height: 36px;left: 97px;letter-spacing: -2.52px;line-height: normal;position: absolute;top: 0;width: 196px;}
+.lname {color: #020202;font-family: "Roboto Mono-Bold", Helvetica;font-size: 145px;font-weight: 700;height: 156px;left: 0;letter-spacing: -10.15px;line-height: normal;position: absolute;top: 115px;white-space: nowrap;width: 555px;}
+.header-works {color: #020202;font-family: "Roboto-Black", Helvetica;font-size: 90px;font-weight: 900;height: 90px;left: 39px;letter-spacing: -1.8px;line-height: 89.9px;position: absolute;top: 2076px;white-space: nowrap;width: 290px;}
+.link-works {font-family: "Roboto Mono-Regular", Helvetica;font-size: 20px;font-weight: 400;left: 262px;letter-spacing: 0;line-height: normal;position: absolute;top: 659px;white-space: nowrap;width: 62px;}
+.link-contacts {font-family: "Roboto Mono-Regular", Helvetica;font-size: 20px;font-weight: 400;left: 449px;letter-spacing: 0;line-height: normal;position: absolute;top: 659px;white-space: nowrap;width: 86px;}
+.link-about {font-family: "Roboto Mono-Regular", Helvetica;font-size: 20px;font-weight: 400;left: 357px;letter-spacing: 0;line-height: normal;position: absolute;top: 660px;white-space: nowrap;width: 66px;}
+.purple-box {background-color: #7209b7;border-radius: 80px;height: 740px;left: 696px;position: absolute;top: 163px;width: 645px;}
+.element {height: 401px;left: 86px;object-fit: cover;position: absolute;top: 2216px;width: 571px;}
+.artifair-1 {height: 401px;left: 727px;object-fit: cover;position: absolute;top: 2216px;width: 187px;}
+.artifair-2 {height: 401px;left: 925px;object-fit: cover;position: absolute;top: 2216px;width: 187px;}
+.artifair-3 {height: 401px;left: 1123px;object-fit: cover;position: absolute;top: 2216px;width: 187px;}
+a   {color:#020202}
